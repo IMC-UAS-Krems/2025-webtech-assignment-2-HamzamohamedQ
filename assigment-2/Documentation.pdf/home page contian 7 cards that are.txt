@@ -1,0 +1,25 @@
+home page contian 7 cards that are Hidding 
+1 water 
+2food 
+3coat
+4shoes
+5warm blanket 
+6school supp
+7 first midkit
+ 
+in a SINGLE PAGE 
+each card will have a diff price to make sences 
+I do a navbar I don't know what will the other bnt will do but will do normal nav bar maybe stick with the cart iside of it to 
+be easy to reach all the time will add pics to everyone the hiddin page will have data like address and zipe code when its more than 6 digits will give a waning using js will apper on the top of the page alert
+
+
+navbtns willnot work I have no idea what to refaer them to so ill leave them to look good that's it 
+ 
+
+
+
+
+
+I used card and use js to make them apper on the webpage using DOM and for event lisntners I used on click 
+for the math logic was from a yt video free course for js on BROCODE 
+boot strap I used the grid system to make the main content apper as good as possible 
